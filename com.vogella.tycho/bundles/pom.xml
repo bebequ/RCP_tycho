@@ -13,5 +13,6 @@
 
     <modules>
         <module>com.vogella.tycho.plugin1</module>
+        <module>com.vogella.tycho.rcp</module>
     </modules>
 </project>

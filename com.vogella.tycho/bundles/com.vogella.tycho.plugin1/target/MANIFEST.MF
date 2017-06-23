@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Bundle-SymbolicName: com.vogella.tycho.plugin1
-Bundle-Name: Plugin1
-Bundle-Version: 1.0.0.201706221435
-Bundle-ManifestVersion: 2
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Bundle-Vendor: VOGELLA
-
